@@ -3,7 +3,10 @@ RENCANA MATA PELAJARAN PILIHAN
 - Javascript
   * ES6
   * Frame Javacript
+    ^ Vue
 - Struktur data dasar
 - PHP Frameworks
+  ^ laravel
 - Interview
-- Vlog
+- Vlogs
+- Phyton
