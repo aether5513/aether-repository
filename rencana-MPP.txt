@@ -5,6 +5,7 @@ RENCANA MATA PELAJARAN PILIHAN
   * Frame Javacript
     ^ Vue
     ^ React
+    ^ Angular
 - Struktur data dasar
 - PHP Frameworks
   ^ laravel
